@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dhevas/static/css/main.80f5af29.chunk.css",
+    "main.js": "/dhevas/static/js/main.ecdef49c.chunk.js",
+    "main.js.map": "/dhevas/static/js/main.ecdef49c.chunk.js.map",
+    "runtime-main.js": "/dhevas/static/js/runtime-main.fd245c02.js",
+    "runtime-main.js.map": "/dhevas/static/js/runtime-main.fd245c02.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/dhevas/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.6d9e755f.chunk.js": "/dhevas/static/js/2.6d9e755f.chunk.js",
+    "static/js/2.6d9e755f.chunk.js.map": "/dhevas/static/js/2.6d9e755f.chunk.js.map",
+    "index.html": "/dhevas/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/dhevas/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.80f5af29.chunk.css.map": "/dhevas/static/css/main.80f5af29.chunk.css.map",
+    "static/js/2.6d9e755f.chunk.js.LICENSE.txt": "/dhevas/static/js/2.6d9e755f.chunk.js.LICENSE.txt",
+    "static/media/Discord.65f6cc1c.svg": "/dhevas/static/media/Discord.65f6cc1c.svg",
+    "static/media/banarBg.040be8b1.png": "/dhevas/static/media/banarBg.040be8b1.png",
+    "static/media/logo.57640ba1.png": "/dhevas/static/media/logo.57640ba1.png",
+    "static/media/twiter.c1e51097.svg": "/dhevas/static/media/twiter.c1e51097.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd245c02.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.6d9e755f.chunk.js",
+    "static/css/main.80f5af29.chunk.css",
+    "static/js/main.ecdef49c.chunk.js"
+  ]
+}
